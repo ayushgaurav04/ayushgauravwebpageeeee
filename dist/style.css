@@ -1,0 +1,39 @@
+#options a{
+    margin: 0px 15px;
+    font-size: 19px;
+}
+nav{
+    background-color: rgba(0, 119, 255, 0.373);
+}
+.nav{
+    background-color: rgba(3, 27, 55, 0.966);
+}
+.ayush{
+    color: rgb(0, 132, 255);
+    font-weight: 500;
+}
+.right .img{
+    background-image: url('/img/CODING\ IMG.png');
+    background-size: cover;
+    background-position: center;
+}
+.c{
+    color: rgba(0, 149, 255, 0.604);
+}
+/* css variables */
+
+.lightblue{
+    background-color: rgba(0, 119, 255, 0.373);
+}
+.bg{
+    background-color: rgba(0, 0, 0, 0.321);
+}
+.line{
+    background-color: rgba(240, 248, 255, 0.379);
+}
+.btn{
+    background-color: rgba(0, 98, 255, 0.614);
+}
+.form{
+    background-color: rgba(0, 132, 255, 0.266);
+}
